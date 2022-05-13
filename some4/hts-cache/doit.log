@@ -1,0 +1,8 @@
+https://www.pastnotes82.tk -w -N102 -L1 -i -a +*.bp.blogspot.com/* +*.googleusercontent.com/* +*gstatic.com/*
+File generated automatically on Fri, 13 May 2022 10:20:37, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

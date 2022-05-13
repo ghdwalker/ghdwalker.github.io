@@ -1,0 +1,14 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 13 May 2022 10:20:37 at https://www.pastnotes82.tk +*.bp.blogspot.com/* +*.googleusercontent.com/* +*gstatic.com/*
+(httrack https://www.pastnotes82.tk -w -N102 -L1 -i -a +*.bp.blogspot.com/* +*.googleusercontent.com/* +*gstatic.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:29:11	Error: 	"Not Found" (404) at link https://www.pastnotes82.tk/goog_230403471 (from https://www.pastnotes82.tk/)
+10:42:28	Error: 	"Not Found" (404) at link https://www.pastnotes82.tk/2020/11/goog_230403471 (from https://www.pastnotes82.tk/2020/11/a-summary-about-elections-2020-anno.html)
+10:47:05	Error: 	"Not Found" (404) at link https://www.pastnotes82.tk/p/============================== (from https://www.pastnotes82.tk/p/a-wave-equation-involving-chirality-and.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 28 seconds : 852 links scanned, 844 files written (190787764 bytes overall) [189280799 bytes received at 119194 bytes/sec], 2689906 bytes transferred using HTTP compression in 56 files, ratio 24%
+(3 errors, 0 warnings, 0 messages)
